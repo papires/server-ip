@@ -17,8 +17,13 @@
 	<script	src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 </head>
 <body>
+<div align="left"><img src="./fig/rh-opc.png"></div>
 	<h2 align="center" >  <%= InetAddress.getLocalHost()%></h2>
 	<br>
+	<div>
+
+		
+	</div>
 	<div class="container">
 		<div class="row">
 			<%
@@ -47,5 +52,8 @@
 			%>
 		</div>
 	</div>
+	<div class="row" align="center">
+</div>
+	<img align="right" src="./fig/SManager_Logo.png">
 </body>
 </html>
