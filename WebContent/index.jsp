@@ -44,7 +44,7 @@
 					InetAddress:
 					<%=inetAddress%></p>
 				<%
-					}
+					} 
 				%>
 			</div>
 			<%
